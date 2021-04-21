@@ -31,7 +31,7 @@ line = 1
 ccount = 1
 lineprint = ""
 lates = ""
-#C:/Users/Lucas/Downloads/test2.jpg
+
 while line < tsize:
 
     if (ccount == tsize):
